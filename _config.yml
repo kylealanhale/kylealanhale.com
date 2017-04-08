@@ -31,6 +31,8 @@ header_pages:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  footnote_backlink: '&#8617;&#65038;'
 theme: minima
 gems:
   - jekyll-feed
