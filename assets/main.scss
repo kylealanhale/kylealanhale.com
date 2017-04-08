@@ -26,6 +26,13 @@ a:hover {
 .footer-col-wrapper {
 	color: #667
 }
+.footer-col-wrapper > * {
+	width: 45%;
+}
+.footer-col-wrapper > *:last-child {
+	text-align: right;
+	float: right;
+}
 p {
 	margin-bottom: 0;
 	text-indent: 2em;

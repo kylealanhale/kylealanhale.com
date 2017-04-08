@@ -1,0 +1,28 @@
+{% capture error_title %}General Error{% if page.title %} for "{{ page.title }}"{% endif %}{% endcapture %}
+{% capture error_body %}If you've found an error on my site, describe it here, with a recommended solution if you'd like. Let me know in the title the kind of error (general, typo, factual, layout). Better yet, fork my site's code and submit a pull request with the fix, if you're into that sort of thing.
+
+----
+url: {{ page.url | absolute_url }}
+{% endcapture %}
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      {% assign firstPost = site.posts | last %}
+        Copyright &copy; {{ firstPost.date | date: "%Y" }}–{{ site.time | date: "%Y" }}
+        {% if site.author %}
+          {{ site.author | escape }}
+        {% else %}
+          {{ site.title | escape }}
+        {% endif %}
+      </div>
+      <div class="footer-col">
+        <p><a title="If you've found an error, give me all the gritty details here." href="https://github.com/kylealanhale/kylealanhale.com/issues/new?title={{ error_title | url_encode }}&body={{ error_body | url_encode }}">Errata</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
