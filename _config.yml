@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://writing.kylealanhale.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kylealanhale
 
+header_pages: 
+  - about.md
+
 # Build settings
 permalink: :slug
 markdown: kramdown
