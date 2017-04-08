@@ -1,23 +1,8 @@
 ---
 layout: page
-status: publish
-published: true
 title: What and Why
-author:
-  display_name: Kyle Alan Hale
-  login: kylealanhale
-  email: me@kylealanhale.com
-  url: http://kylealanhale.com/
-author_login: kylealanhale
-author_email: me@kylealanhale.com
-author_url: http://kylealanhale.com/
-wordpress_id: 136
-wordpress_url: http://writing.kylealanhale.com/?page_id=136
+permalink: what-and-why
 date: '2012-07-15 20:37:37 +0000'
-date_gmt: '2012-07-15 20:37:37 +0000'
-categories: []
-tags: []
-comments: []
 ---
 The first thing I remember writing was a sci-fi short story when I was nine or ten. It was called Planet X, if I remember correctly. It involved a young protagonist who was abducted by a space ship and later awoke to find himself near his house. When he went inside, however, his mother didn't recognize him, and he went on to discover that he had been transported to a parallel planet in which he didn't exist. He proceeded to track down the people responsible and secure a happy ending.
 
