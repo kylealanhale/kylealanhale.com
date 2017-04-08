@@ -46,7 +46,7 @@ comments:
 
 ![An unripe peach, still on the tree][1]
 
-Why would religion preach against youthful indulgence? Perhaps because abstinence has given a few the impression of a quietly happy or satisfactory life—I cannot begrudge them that. I also don't deny that indulgence often leads to excess and extremes, which are dangerous, if still useful. And the worship of or clinging to youth is really just another form of betrayal against the present. The grass is not greener ten years ago, but it could have been had I recognized then the value of the present, and can be now if I do the same.<!--more-->
+Why would religion preach against youthful indulgence? Perhaps because abstinence has given a few the impression of a quietly happy or satisfactory life—I cannot begrudge them that. I also don't deny that indulgence often leads to excess and extremes, which are dangerous, if still useful.<!--more--> And the worship of or clinging to youth is really just another form of betrayal against the present. The grass is not greener ten years ago, but it could have been had I recognized then the value of the present, and can be now if I do the same.
 
 For example, I just ate a peach, washed and sliced. The delicate yield of the bitten peach, the sweetness of the flesh and bitter bite of the skin, the juice between fingers—they are all sensations of summers past, memorial bouquets, and it is probably as much the fault of that intangible nostalgia as it is the god-kissed flavors that make it my favorite fruit.
 

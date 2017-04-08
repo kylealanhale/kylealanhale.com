@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-I make, break, and remake things: [essays](/), [tweets](http://twitter.com/kylealanhale), [photos](http://instagram.com/kylealanhale), [music](http://music.kylealanhale.com/), [film reviews](https://letterboxd.com/kylealanhale/films/reviews/), [code](http://github.com/kylealanhale)
+I make, break, and remake things: [essays](/), [tweets](http://twitter.com/kylealanhale), [photos](http://instagram.com/kylealanhale), [music](http://music.kylealanhale.com/), [film reviews](https://letterboxd.com/kylealanhale/films/reviews/), [code](http://github.com/kylealanhale).

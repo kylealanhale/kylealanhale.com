@@ -336,7 +336,7 @@ As I write I am witnessing, first-hand, the transit of Venus across the sun. It 
 
 ![Photograph of notebook pages, with sketch of transit](/media/transit-of-venus-notes.jpg "Drawing the transit made me feel very 17th-century.")
 
-Or do I? What have I really learned here? What do I know now that I didn't before? <!--more--> It isn't a new question. Humanity has been wondering what it means to know something since nearly as long as we have known how to write down what we know. An entire field of study has emerged around the topic. The opinions range widely, along a scale whose notches indicate degrees of skepticism. By even asking this question I am placing myself closer to the skeptical end of the spectrum, perhaps near our friend Camus, whose skepticism proved to be ultimately, ironically, and tragically appropriate. He had this to say on knowledge:
+Or do I? What have I really learned here? What do I know now that I didn't before? It isn't a new question. Humanity has been wondering what it means to know something since nearly as long as we have known how to write down what we know.<!--more--> An entire field of study has emerged around the topic. The opinions range widely, along a scale whose notches indicate degrees of skepticism. By even asking this question I am placing myself closer to the skeptical end of the spectrum, perhaps near our friend Camus, whose skepticism proved to be ultimately, ironically, and tragically appropriate. He had this to say on knowledge:
 
 > Of whom and of what indeed can I say: 'I know that!' This heart within me I can feel, and I judge that it exists. This world I can touch, and I likewise judge that it exists. There ends my knowledge, and the rest is construction. [^1]
 

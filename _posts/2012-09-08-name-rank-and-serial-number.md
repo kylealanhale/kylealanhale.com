@@ -37,8 +37,8 @@ comments:
 
 People who like to read literature, when they talk, like to talk about who they read at least as much as what they read. The what is why we read, but the who, all of them, are woven into our conversations like trophies.
 
-![Handwritten copy of some of this piece's text][1]<!--more-->
+![Handwritten copy of some of this piece's text][1]
 
-We could just talk about the ideas separated from the names, and the conversations would function just as as well, but we never do. The trading-card exchange of names is a territorial dance of sorts, or perhaps the name, rank, and serial number of the academic world. When names are given in common, they serve as pass phrases to some elite society.
+We could just talk about the ideas separated from the names, and the conversations would function just as as well, but we never do. The trading-card exchange of names is a territorial dance of sorts,<!--more--> or perhaps the name, rank, and serial number of the academic world. When names are given in common, they serve as pass phrases to some elite society.
 
 When one holds a card the other does not, it establishes an ad hoc two-level hierarchy, with one ruling over the other. The ruler feels either superiority or an excitement to share something new—perhaps both in some—that accelerates their pace and increases their self-confidence. The ruled feels not just regret over not knowing the name, but a larger sort of academic guilt or incompetence, sensing that if there is this one name not on their shelf, there is likely a whole section of the repertoire that they have failed to assimilate. The ruled reacts to this incompetence with excitement to learn, feigned disinterest, or non-commital noddings, followed by a later cursory internet search and the appearance of having known all along.

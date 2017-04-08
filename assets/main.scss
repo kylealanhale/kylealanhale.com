@@ -1,0 +1,102 @@
+---
+---
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400i,700,700i|Quattrocento:400,700&subset=latin-ext');
+
+body {
+	font-family: Quattrocento Sans, serif;
+	color: #334;
+	line-height: 1.5em;
+}
+.wrapper {
+	max-width: 666px;
+}
+
+a, a:visited {
+	color: #5c7c97;
+}
+a:hover {
+	color: #97b8d4;
+}
+
+.site-header, a.site-title, a.site-title:visited {
+	color: #445;
+	font-weight: medium;
+}
+.footer-col-wrapper {
+	color: #667
+}
+p {
+	margin-bottom: 0;
+	text-indent: 2em;
+}
+p > img {
+	margin-left: -2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.footnotes p {
+	margin: initial;
+	text-indent: initial;
+}
+blockquote {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size: 1em;
+	border-width: 2px;
+	color: #666;
+	letter-spacing: inherit;
+	padding-left: 2em;
+}
+sup { 
+	line-height: 0;
+	padding: .125em;
+	font-size: .75em;
+}
+.footer-heading, .page-heading {
+	display: none;
+}
+
+.post .footnotes {
+	margin-top: 3em;
+	font-size: .75em;
+}
+.post-list .post .footnotes {
+	margin-top: 1em;
+}
+.home .read-more {
+	font-size: .9em;
+	margin-top: 0em;
+}
+.post-list > li {
+	margin-bottom: 9em;
+	position: relative;
+}
+.post-list > li:after {
+	position: absolute;
+	bottom: 1.5em;  
+	height: 9em;
+	width: 100%;
+	content: "";
+	background: linear-gradient(to top,
+		rgba(255,255,255, 1) 15%, 
+		rgba(255,255,255, 0) 100%
+	);
+	pointer-events: none; /* so the text is still selectable */
+	z-index: 0;
+}
+.post-list img {
+	position: relative;
+	z-index: 1;
+}
+.post-list sup, .post-list .footnotes {
+	display: none;
+}
+hr {
+	height: 1px;
+	width: 33%;
+	border: none;
+	border-top: 1px solid;
+	margin: 2em auto;
+	text-align: center;
+}

@@ -18,8 +18,8 @@ comments: []
 
 ![Brown grass in the foreground; rainy hills in the distance; two orange-capped posts][1]
 
-Nostalgia represents loss of the past, but it's also loss in itself. The feeling, like a memory but more compact, is instantaneous and then gone. I'm left grasping, trying to expand the feeling into an actual memory, something to hold on to.<!--more-->
+Nostalgia represents loss of the past, but it's also loss in itself. The feeling, like a memory but more compact, is instantaneous and then gone. I'm left grasping, trying to expand the feeling into an actual memory, something to hold on to.
 
-But often there is no memory, no event on the other side. Just a moment coupled with another moment, two points in time connected by neural gossamer.[^1]
+But often there is no memory, no event on the other side.<!--more--> Just a moment coupled with another moment, two points in time connected by neural gossamer.[^1]
 
 Just now the other moment was at home in Oakley, around Thanksgiving or Halloween, in the kitchen or the laundry room, humid from cooking or laundering, and my mother is nearby, and that's it. It's gone.

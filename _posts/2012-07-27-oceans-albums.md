@@ -77,7 +77,7 @@ The first time I saw the ocean, she owned me. It was an encounter bigger than th
 
 ![Rocky coast, very small figure on a rock out in the water][1]
 
-I understood, then, why all the paintings, stories, and songs existed; I knew then that humanity has, for millennia, looked at this body as we now look at the deep reaches of space. I have since breathed the salty air from several locations, and have come to see her as one great thing, differing in temperament from one place and time to the next, but cohesive in identity. I know, on some small scale, the character of that hidden soul of whom Melville wrote. <!--more-->
+I understood, then, why all the paintings, stories, and songs existed; I knew then that humanity has, for millennia, looked at this body as we now look at the deep reaches of space. I have since breathed the salty air from several locations, and have come to see<!--more--> her as one great thing, differing in temperament from one place and time to the next, but cohesive in identity. I know, on some small scale, the character of that hidden soul of whom Melville wrote.
 
 To really know a soul takes a lot of time, over many miles. With enough time one can predict moods and finish sentences. Mind reading is really just knowing enough about the person, their experiences, habits, preferences; with enough of that context you can empathize to a prophetic degree. It's how lovers know each other, and how mariners know the sea.
 

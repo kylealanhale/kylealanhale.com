@@ -16,16 +16,20 @@
 title: Kyle Alan Hale
 email: kylealanhale@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some writing.
+  Some writing, some pictures, &c.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kylealanhale.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kylealanhale
 
+disqus:
+    shortname: kah-writing
+google_analytics: UA-25464550-3
+
+permalink: :slug
+excerpt_separator: <!--more-->
 header_pages: 
   - about.md
 
 # Build settings
-permalink: :slug
 markdown: kramdown
 theme: minima
 gems:
@@ -33,7 +37,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-disqus:
-    shortname: kah-writing
-google_analytics: UA-25464550-3
