@@ -26,8 +26,8 @@ google_analytics: UA-25464550-3
 
 permalink: :slug
 excerpt_separator: <!--more-->
-header_pages: 
-  - about.md
+header_pages: [about.md]
+include: ['_pages']
 
 # Build settings
 markdown: kramdown
