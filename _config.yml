@@ -15,19 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Kyle Alan Hale
 author: Kyle Alan Hale
-description: > # this means to ignore newlines until "baseurl:"
-  Some writing, some pictures, &c.
+description: Some writing, some pictures, &c.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kylealanhale.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 disqus:
-    shortname: kah-writing
+  shortname: kah-writing
 google_analytics: UA-25464550-3
-
-permalink: :slug
-excerpt_separator: <!--more-->
-header_pages: [about.md]
-include: ['_pages']
 
 # Build settings
 markdown: kramdown
@@ -39,3 +33,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+include: [_pages]
+header_pages: [_pages/about.md]
+permalink: :slug
+excerpt_separator: <!--more-->
