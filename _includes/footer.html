@@ -21,7 +21,10 @@ url: {{ page.url | absolute_url }}
         {% endif %}
       </div>
       <div class="footer-col">
-        <p><a title="If you've found an error, give me all the gritty details here." href="https://github.com/kylealanhale/kylealanhale.com/issues/new?title={{ error_title | url_encode }}&body={{ error_body | url_encode }}">Errata</a></p>
+        <p>
+          <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+          <a title="If you've found an error, give me all the gritty details here." href="https://github.com/kylealanhale/kylealanhale.com/issues/new?title={{ error_title | url_encode }}&body={{ error_body | url_encode }}">Errata</a>
+        </p>
       </div>
     </div>
   </div>
