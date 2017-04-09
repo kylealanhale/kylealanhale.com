@@ -23,7 +23,7 @@ Furthermore, is it possible that even a finely attuned sense can lose its potenc
 
 ### Comments
 #### Kyle Alan Hale
-Really good assessment. I'm sure it must look like I've shown some apathy toward spirituality, and I agree that if it is a divinely endowed sense that it could atrophy, or could be ignored by the mind. (For an interesting look at that latter phenomenon relating to sight, listen to this.) So, I wholly agree with what you've said here.
+Really good assessment. I'm sure it must look like I've shown some apathy toward spirituality, and I agree that if it is a divinely endowed sense that it could atrophy, or could be ignored by the mind. (For an interesting look at that latter phenomenon relating to sight, listen to [this](http://www.radiolab.org/story/211119-colors/ "Radiolab Season 10 Episode 13: Colors").) So, I wholly agree with what you've said here.
 
 Unfortunately, my work at building my spiritual senses, driven by faith, has not yielded any knowledge. I wish it had; the promises of religion are very attractive. However, I have finally come to admit the possibility I have harbored in the back of my mind since I was a child: God might not exist; this might be all there is; my spiritual experiences might all be self-affirmations and positive emotions. That doesn't lessen the good things that have come out of my worship in terms of self-improvement, it just means that I have exhausted religion's usefulness. However, that says nothing about its usefulness to others, and I begrudge no one their beliefs.
 
