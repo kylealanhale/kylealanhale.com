@@ -55,6 +55,29 @@ p > img {
 	text-indent: initial;
 	letter-spacing: -.03em;
 }
+sup:target .footnote:after {
+	content: "\00a0←";
+}
+.footnotes ol {
+	list-style-type: none;
+	counter-reset: footnotes;
+}
+.footnotes ol > li {
+	position: relative;
+}
+.footnotes ol > li:before {
+	counter-increment: footnotes;
+	content: counter(footnotes) ".";
+	position: absolute;
+	left: -4.5rem;
+	width: 4rem;
+	text-align: right;
+	white-space: nowrap;
+	overflow: visible;
+}
+.footnotes ol > li:target:before {
+	content: "→\00a0" counter(footnotes) ".";
+}
 blockquote {
 	margin-top: 1em;
 	margin-bottom: 1em;
