@@ -1,20 +1,15 @@
 ---
 layout: post
-published: true
 title: Thanksgiving
 date: '2015-11-26 20:48:53 +0000'
 categories:
 - Petits écrits
+
 ---
-<!-- Resources -->
-
-[1]: /media/portland-park-bench.jpg "Horizon"
-
-<!-- Begin text -->
 
 I walked to a park to write this. The wind and the cold require me to write in heavy strokes to keep the ink flowing; the ink casts a shadow on the page before it dries. Today is as I imagined it. Solitary, but connected. Looking forward and back to more direct connection, and celebrating the connection inherent in community celebration. A family has their dinner set up in the pavilion, and a homeless man yells for a while in a Tom Waits preacher voice. A couple walks by, and with the sun at their backs creating shadow cowls, I thought they were a pair of nuns.
 
-![Park bench with neighborhood homes in the background][1]
+![Park bench with neighborhood homes in the background](/media/portland-park-bench.jpg "Horizon")
 
 Thanksgiving Day tends to center around family, and I'm glad it does. Friendsgiving isn't new, but it's in style this year, and in some ways it's a better celebration; family is the idea of embracing, and there's more to give than thanks. I decided to spend much of today alone. It feels good but weird.<!--more--> Is my solitude honest, or am I like the voluntarily homeless who can return to a warm home when they feel like it?
 

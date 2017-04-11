@@ -4,14 +4,10 @@ title: Something New
 date: '2012-09-23 23:05:27 +0000'
 categories:
 - Petits écrits
+
 ---
-<!-- Resources -->
 
-[1]: /media/something-new.jpg "An idea crossing the threshold. Rock Canyon, June 2010"
-
-<!-- Begin text -->
-
-![A new shoot of green in a bed of brown leaves][1]
+![A new shoot of green in a bed of brown leaves](/media/something-new.jpg "An idea crossing the threshold. Rock Canyon, June 2010")
 
 I know that it is unlikely that I will ever write anything totally new. Most of what I write is novel to me, and synthesized by me, which is why I find it worth recording at all, but there have been uncounted generations far more intelligent who have surely at some point beat me to the ideas.<!--more--> When I come across examples of victors in this subtle competition, though, I am encouraged and feel honored that I should be in the company of such greats. I also feel then like I am on the right track toward a novel discovery of my own.
 

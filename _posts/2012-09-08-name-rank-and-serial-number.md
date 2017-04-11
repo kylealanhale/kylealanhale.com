@@ -28,16 +28,12 @@ comments:
     situation carefully, I'd rather learn new things from the people I interact with
     than from Wikipedia, even if it means confessing ignorance to those people. Learning
     together is what binds us.</p>\n"
+
 ---
-<!-- Resources -->
-
-[1]: /media/name-rank-serial-number.jpg "Who you are reading"
-
-<!-- Begin text -->
 
 People who like to read literature, when they talk, like to talk about who they read at least as much as what they read. The what is why we read, but the who, all of them, are woven into our conversations like trophies.
 
-![Handwritten copy of some of this piece's text][1]
+![Handwritten copy of some of this piece's text](/media/name-rank-serial-number.jpg "Who you are reading")
 
 We could just talk about the ideas separated from the names, and the conversations would function just as as well, but we never do. The trading-card exchange of names is a territorial dance of sorts,<!--more--> or perhaps the name, rank, and serial number of the academic world. When names are given in common, they serve as pass phrases to some elite society.
 

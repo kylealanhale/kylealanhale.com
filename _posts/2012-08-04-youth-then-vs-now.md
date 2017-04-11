@@ -32,19 +32,12 @@ comments:
     <p>And I confess that I partially had in mind your professed love for youth when I wrote this. I am certainly not preaching against the appreciation of youth; I'm just suggesting that it is an incomplete view of life. It is unripe, as I have quoted Wilde's character saying. Youth creates urgency, but doesn't our death-punctuated life create all the urgency we need?</p>
 
     <p>The value that youth has to offer isn't time-sensitive, and the parts of it that are time sensitive are the things that are unhealthy to obsess about after they pass. Which is really all that I'm saying: we should enjoy youth while it is our present; we ought not worry about losing it; that worry only wastes time that could be spent on whatever life is currently offering. So if you aren't worrying, then carry on with enjoying your present youth. </p>
+
 ---
-<!-- Resources -->
 
-[1]: /media/unripe-peach.jpg "Young peaches, in the orchard behind our house"
+> We degenerate into hideous puppets, haunted by the memory of the passions of which we were too much afraid, and the exquisite temptations that we had not the courage to yield to. Youth! Youth! There is absolutely nothing in the world but youth![^nothing]
 
-[^1]: Oscar Wilde, *The Picture of Dorian Gray* (Three Sirens Press, New York, 1931), 34
-[^2]: ibid., 243
-
-<!-- Begin text -->
-
-> We degenerate into hideous puppets, haunted by the memory of the passions of which we were too much afraid, and the exquisite temptations that we had not the courage to yield to. Youth! Youth! There is absolutely nothing in the world but youth![^1]
-
-![An unripe peach, still on the tree][1]
+![An unripe peach, still on the tree](/media/unripe-peach.jpg "Young peaches, in the orchard behind our house")
 
 Why would religion preach against youthful indulgence? Perhaps because abstinence has given a few the impression of a quietly happy or satisfactory life—I cannot begrudge them that. I also don't deny that indulgence often leads to excess and extremes, which are dangerous, if still useful.<!--more--> And the worship of or clinging to youth is really just another form of betrayal against the present. The grass is not greener ten years ago, but it could have been had I recognized then the value of the present, and can be now if I do the same.
 
@@ -56,4 +49,9 @@ Indeed it is not youth that we should treasure, but now. Anything that robs us o
 
 We are able to enjoy the presence of fruits in the present better than we could those of the past. We can enjoy tomorrow's better if we savor today's. And the best peach is the one that, yesterday, was a day away from falling to the ground, and that today lies upon my tongue.
 
-> What was youth at its best? A green, an unripe time...[^2]
+> What was youth at its best? A green, an unripe time...[^unripe]
+
+
+
+[^nothing]: Oscar Wilde, *The Picture of Dorian Gray* (Three Sirens Press, New York, 1931), 34
+[^unripe]: ibid., 243

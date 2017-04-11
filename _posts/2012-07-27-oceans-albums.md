@@ -68,10 +68,12 @@ comments:
   date_gmt: '2012-07-30 10:51:00 +0000'
   content: "<p>beautiful! full of energy, feelings and wisdom. i was swept away while
     reading it</p>\n"
+
 ---
+
 The first time I saw the ocean, she owned me. It was an encounter bigger than the moment, bigger than the steps that had led me, by way of a marriage altar, to that rocky Washington coast. Much bigger than any of the pictures, narrations, or melodies that had previously been, to me, the ocean. Its dimensions threatened my cognitive abilities and exhausted my mind in its efforts to take it all in. It was like looking into a great box, one that I couldn't see far enough into, whose sides and top I could never hope to see, whose corners I was certain hid secrets I needed to know.
 
-![Rocky coast, very small figure on a rock out in the water][1]
+![Rocky coast, very small figure on a rock out in the water](/media/washington-coast.jpg "I am that speck, sitting on the far rock, staring out into the abyss. Photo taken by Rachel Dorothy Anderson, June 2006")
 
 I understood, then, why all the paintings, stories, and songs existed; I knew then that humanity has, for millennia, looked at this body as we now look at the deep reaches of space. I have since breathed the salty air from several locations, and have come to see<!--more--> her[^her] as one great thing, differing in temperament from one place and time to the next, but cohesive in identity. I know, on some small scale, the character of that hidden soul of whom Melville wrote.
 
@@ -123,7 +125,7 @@ They got it. My heart sighed an audible Finally! when I read this. With this inc
 
 Following my own snobbish tradition I didn't listen through the album until I received my copy on vinyl. Music often sounds better on vinyl than it does digitally; as an analog medium it represents sound with infinitely greater resolution than any digital format can. The actual audible difference depends on how the music was originally recorded, how it was mastered before pressing, and, of course, on the ear of the listener, as well as how well the record has been cared for. The real reason for this tradition, though, is not because of the analog advantage; it is because of how it influences my perception in inaudible ways. It is well established in the culinary world that color directly adds to the experience we call flavor; in the same way, the flavor of an album is affected by the format in which it is consumed. Again, when the context changes (no matter how slight) so does the meaning, and with it the perceived enjoyment. Many dismiss the preference for vinyl because of the nominal tangible gains;[^tangibility] I acknowledge the dismissal, but continue to choose the medium for the way it demands attention and encourages the listener to leave behind the day for a consecrated hour of sound.
 
-![A vinyl copy of Oceania, playing, label slightly blurred][2]
+![A vinyl copy of Oceania, playing, label slightly blurred](/media/oceania.jpg "A tradition of spinning")
 
 My first hour with this particular sound was emotional. I heard a band again, not just a lone man with an old name. When I heard female backup vocals and checked the jacket to find the new bass player Nicole's name bearing vocal credits, I nearly wept. The whole experience was like embracing an old friend. Track after track, flipping the disc every three or four, a story unfolded.
 
@@ -139,13 +141,9 @@ When we listen to songs, how are we listening to them? If on the radio, our unde
 
 However, let's assume that the music you are listening to comes from an artist who deliberately packages a song with a dozen others, each of them created especially to complement the rest. There is no better kind of music than that which is the product of careful planning or unifying energy, and when either or both of those things are involved, what you get is a killer album. If that effort and spirit has been invested and manifested in this *gestalt*, shouldn't we want that added meaning? It's like a hidden track that you can't get to by playing past the end; the historical subtext of a century-old novel; the "third something" of Eisenstein's films.[^eisenstein] Please, continue to love the single songs, just as we love ocean-side vacation spots, but do what you can to know the whole soul.
 
-![Looking out at the horizon over cresting coastal waves][3]
+![Looking out at the horizon over cresting coastal waves](/media/coronado.jpg "In which the lady offered me a spot at her table. Coronado Beach, June 2012")
 
 
-
-[1]: /media/washington-coast.jpg "I am that speck, sitting on the far rock, staring out into the abyss. Photo taken by Rachel Dorothy Anderson, June 2006"
-[2]: /media/oceania.jpg "A tradition of spinning"
-[3]: /media/coronado.jpg "In which the lady offered me a spot at her table. Coronado Beach, June 2012"
 
 [^her]: There's a risk in personifying an inanimate object, and a greater risk at assigning it a gender. It's a shame that English lacks a gender-neutral way of personifying matter. Criticisms of female personfication generally have something to pay attention to, especially if it's a male doing the personifying. Having acknowledged that, the ocean must be personified, and it is, perhaps in a real sense, our first mother. More personally, while I prefer to dissolve their binary association and to emphasize the similarities between men and women over the exaggerated differences, there is something about the experience of someone of a gender other than our own that we'll never be able to apprehend, in the same way that I'll never be able to know all of the ocean.
 [^goddess]: More on this in a [previous essay](/goddess-of-knowledge)
