@@ -153,26 +153,3 @@ hr {
 h1, h2, h3, h4, h5 {
 	margin: 1em 0 .5em 0;
 }
-
-/* Nav fix */
-.site-nav .nav-trigger {
-	display: none;
-}
-@include media-query($on-palm) {
-.site-nav .trigger {
-	clear: initial;
-	display: initial;
-}
-.site-nav:hover .trigger {
-	display: initial;
-	padding-bottom: initial;
-}
-.site-nav input ~ .trigger {
-	clear: both !important;
-	display: none !important;
-}
-.site-nav input:checked ~ .trigger {
-	display: block !important;
-	padding-bottom: 5px !important;
-}
-}
