@@ -1,18 +1,14 @@
-language: ruby
-rvm:
-- 2.0.0
 sudo: false
-
-branches:
-  only:
-  - master
+language: ruby
+rvm: 2.0.0
+cache: bundler
+branches: { only: master }
 
 script: bundle exec jekyll build
 
 deploy:
   provider: pages
-  skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  on:
-    branch: master
+  on: { branch: master }
+  skip_cleanup: true
   local_dir: _site
