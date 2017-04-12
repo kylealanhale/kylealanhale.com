@@ -50,6 +50,12 @@ p > img {
 	margin-bottom: 1em;
 	width: 100%;
 }
+p:last-of-type > img {
+	margin-bottom: 0.5em;
+}
+p:first-of-type > img {
+	margin-top: 0;
+}
 .footnotes p {
 	margin: initial;
 	text-indent: initial;
@@ -104,7 +110,6 @@ sup {
 }
 
 .post .footnotes {
-	margin-top: 3em;
 	font-size: .75em;
 }
 .post .footnotes ol {
@@ -118,7 +123,6 @@ sup {
 	margin-top: 0em;
 }
 .post-list > li {
-	margin-bottom: 9em;
 	position: relative;
 }
 .post-list > li:after {
@@ -141,7 +145,7 @@ sup {
 .post-list sup, .post-list .footnotes {
 	display: none;
 }
-hr {
+hr, .post .footnotes:before {
 	height: 1px;
 	width: 33%;
 	border: none;
@@ -149,7 +153,16 @@ hr {
 	margin: 2em auto;
 	text-align: center;
 }
+.post .footnotes:before {
+	content: "";
+	display: block;
+	margin: 4em auto;
+}
 
 h1, h2, h3, h4, h5 {
 	margin: 1em 0 .5em 0;
+}
+
+.post {
+	margin-bottom: 9em !important;
 }
