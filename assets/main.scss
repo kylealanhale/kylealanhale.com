@@ -42,10 +42,10 @@ a:hover {
 }
 p {
 	margin-bottom: 0;
-	text-indent: 2em;
+	text-indent: 1.5em;
 }
 p > img {
-	margin-left: -2em;
+	margin-left: -1.5em;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	width: 100%;
@@ -118,11 +118,17 @@ sup {
 .post-list .post .footnotes {
 	margin-top: 1em;
 }
+.post-list .post > p:last-of-type:after {
+	content: "...";
+}
 .home .read-more {
 	font-size: .9em;
-	margin-top: 0em;
-}
-.post-list > li {
+	text-align: right;
+/*	position: relative;
+	top: -1em;
+	z-index: 2;
+*/}
+/*.post-list > li {
 	position: relative;
 }
 .post-list > li:after {
@@ -136,8 +142,8 @@ sup {
 		rgba($background, 0) 100%
 	);
 	pointer-events: none; /* so the text is still selectable */
-	z-index: 0;
-}
+/*	z-index: 0;
+}*/
 .post-list img {
 	position: relative;
 	z-index: 1;
@@ -161,8 +167,4 @@ hr, .post .footnotes:before {
 
 h1, h2, h3, h4, h5 {
 	margin: 1em 0 .5em 0;
-}
-
-.post {
-	margin-bottom: 9em !important;
 }

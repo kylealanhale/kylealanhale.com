@@ -11,7 +11,7 @@ I walked to a park to write this. The wind and the cold require me to write in h
 
 ![Park bench with neighborhood homes in the background](/media/portland-park-bench.jpg "Horizon")
 
-Thanksgiving Day tends to center around family, and I'm glad it does. Friendsgiving isn't new, but it's in style this year, and in some ways it's a better celebration; family is the idea of embracing, and there's more to give than thanks. I decided to spend much of today alone. It feels good but weird.<!--more--> Is my solitude honest, or am I like the voluntarily homeless who can return to a warm home when they feel like it?
+Thanksgiving Day tends to center around family, and I'm glad it does. Friendsgiving isn't new, but it's in style this year, and in some ways it's a better celebration; family is the idea of embracing, and there's more to give than thanks.<!--more--> I decided to spend much of today alone. It feels good but weird. Is my solitude honest, or am I like the voluntarily homeless who can return to a warm home when they feel like it?
 
 I've had an abundance of family celebrations; it's why this was my favorite holiday growing up. Still, I've always hated sitting around a table taking turns expressing gratitude. Today, spending the day alone, separated from the weight of expression, I've tried to figure out why, aside from the general distaste for obligatory goodness. My concentric reasoning centered on this: People I'm grateful for ought to already know it; if not, saying it today won't repair my failure. If there's value in the day's namesake, it's as a reminder to express gratitude every day, so that today doesn't have to feel like a big deal that way.
 
