@@ -30,6 +30,7 @@ kramdown:
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll_version_plugin
 exclude:
   - Gemfile
   - Gemfile.lock
