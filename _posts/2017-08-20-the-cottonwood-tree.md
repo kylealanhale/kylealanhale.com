@@ -43,7 +43,7 @@ My brother's enthusiasm redeemed the event, his calls for a treehouse, reminding
 
 I needed to portray all of that, and I edited obsessively until I had, and I showed it to everyone involved and people I love and they all loved it, and I felt empty.
 
-The post-publishing blues? In part, and I anticipate it again in later today when I post this essay. Appropriately so. Creating something, a film, an essay, a child, is going to be a sunk cost. Inevitably. No matter what positive reactions come from it, it'll never match the energy the creator puts into it. Call it the law of creative thermodynamics. But there was something more to the emptiness this time, a realization.
+The post-publishing blues? In part, and I anticipate it again later today when I post this essay. Appropriately so. Creating something, a film, an essay, a child, is going to be a sunk cost. Inevitably. No matter what positive reactions come from it, it'll never match the energy the creator puts into it. Call it the law of creative thermodynamics. But there was something more to the emptiness this time, a realization.
 
 Any claim to creative primacy is nonsense. Creativity is a human quality. All humans are creative and should create, and art comes from all sorts of minds. Different sorts of minds produce different sorts of art, and a part of the realization that I've been trying to sort through this last week is the way that various approaches to art are attempting to do the same thing: realism, surrealism, hyperrealism, romanticism, impressionism, expressionism, etc., etc., are all trying to translate one kind of reality into a form consumable in another kind of reality.
 
